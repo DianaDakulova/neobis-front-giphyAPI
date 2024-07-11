@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: black;
+}
+.header__logo-side {
+    display: flex;
+    align-items: center;
+}
+h1 {
+   color: white;
+   margin-left: 10px;
+}
+.btn {
+
+}
+.btn__search {
+    
+}
